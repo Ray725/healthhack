@@ -9,6 +9,7 @@
   "author": "Raymond Wang Li",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.16.3"
+    "express": "^4.16.3",
+    "watson-developer-cloud": "^3.3.0"
   }
 }
